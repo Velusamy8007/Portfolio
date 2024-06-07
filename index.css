@@ -649,7 +649,7 @@ span {
     .skills-img {
       
         width: 330px;
-        margin-right: 84px;
+        margin-right: 74px;
     }
     .skills-img img {
         height: 220px;
@@ -676,7 +676,7 @@ span {
         margin-bottom: 50px;
     }
     .contact h2 {
-        margin-left: -70px;
+        margin-left: -100px;
         margin-top: -70px;
     }
     .contact form {
@@ -688,7 +688,7 @@ span {
         font-size: 12px;
     }
      .footer-icon {
-        margin-left: 325px;
+        margin-left: 320px;
         margin-top: -30px;
       
     }
